@@ -1,2 +1,16 @@
-# covid19-data-analysis-powerbi
-Interactive Power BI dashboard analyzing global COVID-19 trends, including active cases, total/daily infections, deaths, severe cases, and recovery rates.
+# 🦠 COVID-19 Data Analysis & Visualization (Power BI)
+
+## 📌 Επισκόπηση (Project Overview)
+Η παρούσα αναφορά δημιουργήθηκε στο Power BI με στόχο την ανάλυση και οπτικοποίηση δεδομένων που σχετίζονται με την πανδημία του COVID-19. Μέσω δυναμικών γραφημάτων και δεικτών, παρέχεται η δυνατότητα σύγκρισης δεδομένων μεταξύ διαφορετικών χωρών και η εξαγωγή χρήσιμων συμπερασμάτων.
+
+## 📊 Βασικά Στοιχεία & Δείκτες (Key Metrics)
+* **Ενεργά Κρούσματα** (Active Cases)
+* **Συνολικά & Ημερήσια Νέα Κρούσματα** (Total & Daily New Cases)
+* **Θάνατοι** (Total Deaths)
+* **Σοβαρές Περιπτώσεις** (Critical/Severe Cases)
+* **Αναρρώσεις** (Recoveries)
+
+## 🛠️ Εργαλεία & Τεχνικές (Tools & Skills Used)
+* **Power BI Desktop:** Δημιουργία διαδραστικών αναφορών και dashboards.
+* **Power Query:** Καθαρισμός και μετασχηματισμός δεδομένων.
+* **DAX (Data Analysis Expressions):** Υπολογισμός προσαρμοσμένων δεικτών και μετρικών.
