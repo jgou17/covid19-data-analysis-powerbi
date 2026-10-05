@@ -1,16 +1,16 @@
 # 🦠 COVID-19 Data Analysis & Visualization (Power BI)
 
-## 📌 Επισκόπηση (Project Overview)
-Η παρούσα αναφορά δημιουργήθηκε στο Power BI με στόχο την ανάλυση και οπτικοποίηση δεδομένων που σχετίζονται με την πανδημία του COVID-19. Μέσω δυναμικών γραφημάτων και δεικτών, παρέχεται η δυνατότητα σύγκρισης δεδομένων μεταξύ διαφορετικών χωρών και η εξαγωγή χρήσιμων συμπερασμάτων.
+## 📌 Project Overview
+This Power BI dashboard provides a comprehensive analysis and visualization of global COVID-19 data. It allows users to track pandemic metrics, compare data across different countries, and derive key analytical insights through dynamic visualizations.
 
-## 📊 Βασικά Στοιχεία & Δείκτες (Key Metrics)
-* **Ενεργά Κρούσματα** (Active Cases)
-* **Συνολικά & Ημερήσια Νέα Κρούσματα** (Total & Daily New Cases)
-* **Θάνατοι** (Total Deaths)
-* **Σοβαρές Περιπτώσεις** (Critical/Severe Cases)
-* **Αναρρώσεις** (Recoveries)
+## 📊 Key Metrics & Features
+* **Active Cases:** Monitoring current active infections globally and regionally.
+* **Total & Daily New Cases:** Tracking infection trends over time.
+* **Mortality Rate & Deaths:** Analyzing total fatalities.
+* **Severe & Critical Cases:** Highlighting ICU and critical care demands.
+* **Recovery Rates:** Visualizing patient recovery numbers.
 
-## 🛠️ Εργαλεία & Τεχνικές (Tools & Skills Used)
-* **Power BI Desktop:** Δημιουργία διαδραστικών αναφορών και dashboards.
-* **Power Query:** Καθαρισμός και μετασχηματισμός δεδομένων.
-* **DAX (Data Analysis Expressions):** Υπολογισμός προσαρμοσμένων δεικτών και μετρικών.
+## 🛠️ Tools & Technologies Used
+* **Power BI Desktop:** Dynamic report creation, data modeling, and interactive dashboards.
+* **Power Query:** Data cleaning, transformation, and shaping.
+* **DAX (Data Analysis Expressions):** Custom measures and calculated KPIs for key metrics.
